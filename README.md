@@ -22,7 +22,7 @@ Kaggle에서 제공하는 Netflix 데이터 활용 → https://www.kaggle.com/da
 - Numpy, Pandas를 통한 데이터 호출 및 전처리
 - Matplotlib, Seaborn, Wordcloud를 통한 시각화
 
-## 6️⃣ Q&A
+## 6️⃣ 코드 및 PPT
 [코드](/공조_넷플릭스분석.ipynb)
 <br/>
 [발표자료](/공조팀_넷플릭스_데이터분석_ppt.pdf)
