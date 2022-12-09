@@ -25,3 +25,5 @@ Kaggle에서 제공하는 Netflix 데이터 활용 → https://www.kaggle.com/da
 - Python 기반으로 진행
 - Numpy, Pandas를 통한 데이터 호출 및 전처리
 - Matplotlib, Seaborn, Wordcloud를 통한 시각화
+
+-Q&A
