@@ -1,9 +1,5 @@
 # 📺 Netflix 컨텐츠 보유 현황과 수급 전략 분석
 
-[코드](/공조_넷플릭스분석.ipynb)
-<br/>
-[발표자료](/공조팀_넷플릭스_데이터분석_ppt.pdf)
-
 ## 1️⃣ 주제
 5가지 기준에 따라 Netflix 데이터 분석
 - 기준 1. 컨텐츠 유형
@@ -27,3 +23,6 @@ Kaggle에서 제공하는 Netflix 데이터 활용 → https://www.kaggle.com/da
 - Matplotlib, Seaborn, Wordcloud를 통한 시각화
 
 ## 6️⃣ Q&A
+[코드](/공조_넷플릭스분석.ipynb)
+<br/>
+[발표자료](/공조팀_넷플릭스_데이터분석_ppt.pdf)
